@@ -44,8 +44,7 @@ r-statistical-predictive-modeling/
 ├── README.md
 ├── analysis.R
 ├── report_notes.md
-└── .gitignore
-```
+
 
 ## Expected Outcome
 The analysis identifies which advertising channels are useful predictors of sales and evaluates how well a multiple linear regression model performs on unseen data.
