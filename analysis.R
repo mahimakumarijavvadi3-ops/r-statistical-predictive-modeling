@@ -1,5 +1,5 @@
 # ============================================================
-# Statistical Analysis and Predictive Modeling using R
+# Statistical analysis and predictive modeling of advertising sales using R and multiple linear regression
 # Project: Advertising Sales Prediction
 # ============================================================
 
