@@ -1,4 +1,4 @@
-#Statistical Analysis and Predictive Modeling of Advertising Sales Using R and Multiple Linear Regression
+##Statistical Analysis and Predictive Modeling of Advertising Sales Using R and Multiple Linear Regression
 
 ## Project Title
 **Advertising Sales Prediction using Statistical Analysis and Multiple Linear Regression**
